@@ -15,7 +15,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
 
   <h2>Linguagens do meu domínio!!</h2>
 
@@ -32,7 +32,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
 
   <h2>Onde você pode me encontrar??</h2>
 
