@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=52A035&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2020C0&height=120&section=header"/>
 
 <h1 align="center">Olá!! eu sou o Marcus Coimbra.<br>Espero que meu perfil possa te ajudar!</h1>
 
@@ -43,4 +43,4 @@
   <a href="https://mail.google.com/mail/u/0/#advanced-search/to=vcoimbra829%40gmail.com&query=in%3Asent&isrefinement=true&todisplay=Marcus" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=52A035&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2020C0&height=120&section=footer"/>
