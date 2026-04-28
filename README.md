@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2020C0&height=120&section=header"/>
 
-<h1 align="center">Olá!! eu sou o Marcus Coimbra.Técnico em Informatica <br>Espero que meu perfil possa te ajudar!</h1>
+<h1 align="center">Olá!! eu sou o Marcus Coimbra.<br>Técnico em Informatica pelo CEFET-MG<br>Espero que meu perfil possa te ajudar!</h1>
 
 ###
 
