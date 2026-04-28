@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2020C0&height=120&section=header"/>
 
-<h1 align="center">Olá!! eu sou o Marcus Coimbra.<br>Espero que meu perfil possa te ajudar!</h1>
+<h1 align="center">Olá!! eu sou o Marcus Coimbra.Técnico em Informatica <br>Espero que meu perfil possa te ajudar!</h1>
 
 ###
 
@@ -39,6 +39,7 @@
   <h2>Experiencia com Banco de Dados</h2>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
   
 </div>
 
@@ -48,10 +49,15 @@
   
   <h2>Ferramentas de Meu Domínio</h2>
 
-<img src=""/>
-<img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
   
 </div>
+
+###
+
 <div align="center">
 
   <h2>Onde você pode me encontrar</h2>
