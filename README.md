@@ -8,8 +8,6 @@
 
 <div align="center">
   
-  ![Stats](https://github-readme-stats.vercel.app/api?username=Marcus-Coimbra&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&hide=issues)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Coimbra&layout=compact&theme=github_dark&hide_border=true&hide=portugol)
   
 </div>
 
@@ -39,8 +37,6 @@
   <h2>Experiencia com Banco de Dados</h2>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/PHPMyadmin/PHPMyadmin-original.svg" height="30" alt="PHPMyadmin logo"  />
   <img width="12" />
   
 </div>
